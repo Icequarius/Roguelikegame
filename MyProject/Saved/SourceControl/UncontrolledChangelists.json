@@ -5,17 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< Updated upstream
-				"C:/Users/benia/Documents/GitHub/Roguelikegame1/MyProject/Content/textwidjet.uasset",
-				"C:/Users/benia/Documents/GitHub/Roguelikegame1/MyProject/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
-				"C:/Users/benia/Documents/GitHub/Roguelikegame1/MyProject/Content/npclife.uasset"
-=======
-				"C:/Users/sebac/Documents/GitHub/Roguelikegame1/MyProject/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
-				"C:/Users/sebac/Documents/GitHub/Roguelikegame1/MyProject/Content/TopDown/Blueprints/Base_character.uasset",
-				"C:/Users/sebac/Documents/GitHub/Roguelikegame1/MyProject/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
-				"C:/Users/sebac/Documents/GitHub/Roguelikegame1/MyProject/Content/TopDown/Blueprints/Enemy.uasset",
-				"C:/Users/sebac/Documents/GitHub/Roguelikegame1/MyProject/Content/TopDown/Blueprints/Player.uasset"
->>>>>>> Stashed changes
+				"C:/Users/sebac/Documents/GitHub/Roguelikegame1/MyProject/Content/TopDown/Blueprints/Player.uasset",
+				"C:/Users/sebac/Documents/GitHub/Roguelikegame1/MyProject/Content/TopDown/Blueprints/Enemy.uasset"
 			]
 		}
 	]
