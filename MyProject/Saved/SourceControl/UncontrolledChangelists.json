@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/sebac/Documents/GitHub/Roguelikegame1/MyProject/Content/TopDown/Blueprints/Bp_main_charachter.uasset",
+				"C:/Users/sebac/Documents/GitHub/Roguelikegame1/MyProject/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"C:/Users/sebac/Documents/GitHub/Roguelikegame1/MyProject/Content/TopDown/Input/Actions/IA_SetDestination_Click.uasset",
+				"C:/Users/sebac/Documents/GitHub/Roguelikegame1/MyProject/Content/TopDown/Input/Actions/IA_SetDestination_Touch.uasset",
+				"C:/Users/sebac/Documents/GitHub/Roguelikegame1/MyProject/Content/TopDown/Input/Actions/Movement.uasset",
+				"C:/Users/sebac/Documents/GitHub/Roguelikegame1/MyProject/Content/TopDown/Input/IMC_Default.uasset",
 				"C:/Users/sebac/Documents/GitHub/Roguelikegame1/MyProject/Content/TopDown/Blueprints/Player.uasset",
 				"C:/Users/sebac/Documents/GitHub/Roguelikegame1/MyProject/Content/TopDown/Blueprints/Enemy.uasset"
 			]
